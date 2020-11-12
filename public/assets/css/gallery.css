@@ -1,0 +1,34 @@
+.gallery {
+  /*layout the images responsively and make the gallery center on the page*/
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 50vmin);
+
+  margin: 60px;
+  grid-gap: 1rem;
+
+  justify-content: center;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+
+  text-align: center;
+}
+
+.card img {
+  align-self: center;
+
+  /* Preserve aspect ratio */  
+  object-fit: cover;
+}
+
+figcaption {
+  display: flex;
+  flex-direction: column;
+
+  justify-content: center;
+  text-align: center;
+
+  padding: 15px;
+}

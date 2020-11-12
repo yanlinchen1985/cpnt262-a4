@@ -1,0 +1,56 @@
+/* form style*/
+fieldset {
+  border: 0;
+}
+
+.Sform {
+  font-size: 20px;
+  padding-left: 3ch;
+}
+
+input {
+  border: 1px solid black;
+}
+
+/* Form style */
+.formtitle {
+  font-weight: bold;
+  font-size: 28px;
+
+  padding-top: 0;
+}
+
+.Sform {
+  width: 50ch;
+
+  margin: auto;
+
+}
+
+/* Textfields */
+.text-fields p {
+  display: flex;
+
+  font-size: 16px;
+  padding-top: 1rem;
+  
+  color: black;
+}
+
+.text-fields p label {
+  width: 10ch;
+}
+
+.text-fields p input {
+  flex: 1;
+
+  max-width:30ch; 
+  height: 2rem;
+
+  margin-left: 5rem;
+  margin-left: 5rem;
+}
+
+ul{
+  list-style-type: none;
+}
