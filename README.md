@@ -5,9 +5,9 @@ by Lynn Chen  Nov,6,2020
 
 ## Links
 
-- Heroku URL: 
+- Heroku URL: https://woodboxhome.herokuapp.com/
 
-- GH repo: 
+- GH repo: https://github.com/yanlinchen1985/cpnt262-a4
 
   
 
